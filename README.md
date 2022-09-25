@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JAVA, SPRING, DSA**
 
-- 🧾 See my [Resume](https://drive.google.com/file/d/1tSvkN0qr1j4E7_D9oeOA7bnRMmv-pHOc/view?usp=sharing) 
+- 🧾 See my [Resume](https://drive.google.com/file/d/1ngNEYd_V8wCqhk_rAp9crLXdePdIx9Zd/view?usp=sharing) 
 - 📫 Visit my [Portfolio](https://aadarsh-mukati.netlify.app/)
 
 
