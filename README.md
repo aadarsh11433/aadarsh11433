@@ -9,7 +9,7 @@
 ** **
 
 
-- 🌱 I’m currently practicing **SQL, SPRING, SPRING BOOT, REST API, DSA**
+- 🌱 I’m currently practicing **Micro Services, Design Patterns**
 
 - 💬 Ask me about **JAVA, SPRING, DSA**
 
