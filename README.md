@@ -13,8 +13,8 @@
 
 - 💬 Ask me about **JAVA, SPRING, DSA**
 
-- 🧾 See my [Resume](https://drive.google.com/file/d/1ngNEYd_V8wCqhk_rAp9crLXdePdIx9Zd/view?usp=sharing) 
-- 📫 Visit my [Portfolio](https://aadarsh-mukati.netlify.app/)
+- 🧾 See my [Resume](https://drive.google.com/file/d/1JKgPoD1sWvro4gXk2zqXW__FD6fktskj/view?usp=drive_link) 
+<!-- - 📫 Visit my [Portfolio](https://aadarsh-mukati.netlify.app/)  -->
 
 
 ## 🧩 Connect with me:</h3>
